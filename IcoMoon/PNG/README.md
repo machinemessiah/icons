@@ -1,0 +1,1 @@
+<table><tr><tr><td valign="bottom"><img src="./stylish.png" width="200"><br>stylish.png</td></tr></table>

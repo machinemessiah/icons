@@ -1,0 +1,1 @@
+<table><tr><tr><td valign="bottom"><img src="./512_black.png" width="200"><br>512_black.png</td><td valign="bottom"><img src="./512_white.png" width="200"><br>512_white.png</td><td valign="bottom"><img src="./ico_black.ico" width="200"><br>ico_black.ico</td><td valign="bottom"><img src="./ico_white.ico" width="200"><br>ico_white.ico</td></tr></table>

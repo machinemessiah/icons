@@ -1,0 +1,1 @@
+<table><tr><tr><td valign="bottom"><img src="./panelarrow-vertical.svg" width="200"><br>panelarrow-vertical.svg</td></tr></table>
